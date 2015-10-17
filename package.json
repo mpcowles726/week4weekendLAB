@@ -1,14 +1,24 @@
 {
   "name": "fourthweeklab",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
-  "author": "",
+  "author": "Matt Cowles",
   "license": "ISC",
   "dependencies": {
     "express": "^4.13.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpcowles726/week4weekendLAB.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mpcowles726/week4weekendLAB/issues"
+  },
+  "homepage": "https://github.com/mpcowles726/week4weekendLAB#readme",
+  "description": ""
 }
